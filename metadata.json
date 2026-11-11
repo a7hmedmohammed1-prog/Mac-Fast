@@ -1,0 +1,6 @@
+{
+  "name": "ماك فاست - أشهى الوجبات السريعة",
+  "description": "تطبيق وموقع مطعم ماك فاست للوجبات السريعة مع قائمة طعام متكاملة، سلة تسوق، وتخصيص الوجبات، وطلب التوصيل السريع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
